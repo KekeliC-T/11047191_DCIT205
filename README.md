@@ -45,6 +45,19 @@ Each page is dedicated to a specific aspect of the Computer Science Department. 
 - **Masters Programs:** Details about MPhil/MSc programs.
 - **PhD Programs:** Information about Ph.D. programs.
 
+## screenshots
+
+![contacts](<Screenshot (8)-1.png>)
+![short course](<Screenshot (9)-1.png>)
+![masters programs](<Screenshot (10)-1.png>)
+![phd programs](<Screenshot (11)-1.png>)
+![home](<Screenshot (3)-1.png>)
+![about](<Screenshot (4) - Copy-1.png>)
+![catalog](<Screenshot (5)-1.png>)
+![resources](<Screenshot (6)-1.png>)
+![events](<Screenshot (7)-1.png>)
+![undergraduate](<Screenshot (12)-1.png>)
+
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/your-username/computer-science-website.git`
@@ -69,4 +82,3 @@ Each page is dedicated to a specific aspect of the Computer Science Department. 
 
 - Author: Cann-Tamakloe Charles WIlliam Welbeck Kekeli
 - Email: welbeck12@outlook.com
-
